@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><button type="default" data-event-opts="{{[['tap',[['tonext',['$event']]]]]}}" bindtap="__e">导航地址</button></view></view>
